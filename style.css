@@ -9,15 +9,14 @@ ul{
 a{
     text-decoration: none;
     font-size: 18px;
-    color: #e5e7eb;
-    font-family: sans-serif;
-    font-weight: 500;
-    font-weight: 350;
+    color: #ffffff;
+    font-family: Arial;
+    font-weight: 520;
 }
-h2{
-    font-size: 24px;
+h1{
+    font-size: 32px;
     font-family:sans-serif;
-    color: #f9f8fa;
+    color: #ffffff;
 }
 .Header{
     background-color:rgb(31, 41, 55);
@@ -30,7 +29,7 @@ h2{
 .hlist{
     display: flex;
     gap: 35px;
-    margin-right: 345px;
+    margin-right: 325px;
 }
 .hero{
     background-color: #1f2937;
@@ -46,10 +45,12 @@ h2{
     font-family:sans-serif;
     color: #f9faf8;
     font-weight: bold;
+    padding-top: 18px;
 }
 .sectext{
     font-size: 18px;
     color: #e5e7eba3;
+    font-family: 'Roboto';
 }
 button{
     background-color: #3882f6;
@@ -67,5 +68,6 @@ button{
 img{
     width: 425px;
     height: auto;
-    border-radius:8px ;
+    border-radius:12px ;
+    padding-top: 5px;
 }
