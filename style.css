@@ -1,7 +1,6 @@
 body{
     display: flex;
     flex-direction: column;
-    background-color: #1f2937;
 }
 ul{
     list-style-type: none;
@@ -24,7 +23,9 @@ h1{
     justify-content: space-between;
     margin: 0;
     padding-left: 180px;
+    padding-top: 20px;
     align-items: center;
+    background-color: #1f2937;
 }
 .hlist{
     display: flex;
@@ -81,6 +82,8 @@ img{
     font-size: 42px;
     font-family: 'Roboto';
     padding-left: 600px;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 .imagess{
     padding-top: 30px;
@@ -120,7 +123,8 @@ img{
     color: rgb(55, 54, 54);
     align-self: flex-end;
     margin-right: 350px;
-    margin-top: -30px;
+    margin-top: 0px;
+
 }
 .signup{
     background-color:#ffffff ;
@@ -149,7 +153,7 @@ img{
 .p5{
     color: #ffffff;
     font-size: 16px;
-    margin-top: -10px;
+    margin-top: 10px;
 }
 .button2{
     margin-left: 200px;
@@ -168,4 +172,10 @@ img{
     font-size: larger;
     margin-bottom: 10px;
     font-family: sans-serif ;
+}
+*{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
 }
