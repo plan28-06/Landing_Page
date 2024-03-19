@@ -71,3 +71,29 @@ img{
     border-radius:12px ;
     padding-top: 5px;
 }
+.inspirations{
+    display: flex;
+    flex-direction: column;
+    background-color: #f9faf8;
+}
+.inspirations h2
+{
+    font-size: 36px;
+    font-family: 'Roboto';
+    padding-left: 620px;
+}
+.imagess{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.imagess img{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+.imagess p{
+    font-size: larger;
+    padding-left: 68px;
+}
