@@ -112,6 +112,7 @@ img{
     width: 800px;
     padding-left: 400px;
     padding-top: 100px;
+    margin-left : -25px;
 }
 .quote .author{
     font-size: 28px;
@@ -120,4 +121,35 @@ img{
     align-self: flex-end;
     margin-right: 350px;
     margin-top: -30px;
+}
+.signup{
+    background-color:#ffffff ;
+
+}
+.signup .container{
+    background-color: #3882f6;
+    width: 800px;
+    height: 125px;
+    border-radius: 15px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: row;
+    padding-left: 200px;
+    padding-top: 30px;
+    align-items: center;
+}
+.p4{
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: -25px;
+}
+.p5{
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: -10px;
+}
+.button2{
+    margin-left: 200px;
+    margin-top: -25px;
 }
