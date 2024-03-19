@@ -153,3 +153,17 @@ img{
     margin-left: 200px;
     margin-top: -25px;
 }
+.footer{
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.footer p{
+    margin-top:10px;
+    font-size: larger;
+    margin-bottom: 10px;
+    font-family: sans-serif ;
+}
